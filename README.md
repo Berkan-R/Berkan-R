@@ -20,7 +20,7 @@
 <br>
   <a href="https://www.w3schools.com/java/" > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href="https://www.w3schools.com/html/" > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href="https://www.w3schools.com/java/" > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href="https://www.w3schools.com/css/" > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href="https://www.w3schools.com/js/" > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href="https://www.w3schools.com/MySQL/default.asp" > <img width ='40px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 
